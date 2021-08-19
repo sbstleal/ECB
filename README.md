@@ -25,7 +25,7 @@
   dotnet new webapi
 ```
 
-**Comandos GIT e GITHUB:**
+*Comandos GIT e GITHUB:*
 ``` bash
   git init
   git add .
@@ -39,7 +39,7 @@
   git push -u origin main
 ```
 
-**Pacotes utilizados:**
+*Pacotes utilizados:*
 ``` bash
   dotnet add package Microsoft.EntityFrameworkCore --version 5.0.9
   dotnet add package Microsoft.EntityFrameworkCore.Tools --version 5.0.9
@@ -47,19 +47,19 @@
   dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 5.0.2
 ```
 
-**Comandos utilizados para criar a migração:**
+*Comandos utilizados para criar a migração:*
 ``` bash
 dotnet tool install --global dotnet-ef
 dotnet ef migrations add ExampleAdd
 dotnet ef database update
 ```
 
-**Comando para instalar a ferramenta code generator:**
+*Comando para instalar a ferramenta code generator:*
 ``` bash
 dotnet tool install -g dotnet-aspnet-codegenerator
 ```
 
-**Comandos para criar os scaffold's necessários:**
+*Comandos para criar os scaffold's necessários:*
 ``` bash
 dotnet aspnet-codegenerator controller -name CandidatoController -async -api -m Candidato -dc DbContexto -outDir Controllers
 
