@@ -74,8 +74,8 @@ dotnet aspnet-codegenerator controller -name ProfissaoController -async -api -m 
 ``` 
   
 [![Linkedin: sebastião](https://img.shields.io/badge/-sbstleal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sbstleal/)](https://www.linkedin.com/in/sbstleal/)
- [![Linkedin: ivanilson](https://img.shields.io/badge/-ivanilson-ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanilson-ferreira-026292201/)](https://www.linkedin.com/in/ivanilson-ferreira-026292201/)
- [![Linkedin: josé](https://img.shields.io/badge/-josé-victor-martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-victor-martins-figueiredo-21a70217b/)](https://www.linkedin.com/in/jos%C3%A9-victor-martins-figueiredo-21a70217b/)
- [![Linkedin: lucas](https://img.shields.io/badge/-lucas-ramon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ramon-1978b653/)](https://www.linkedin.com/in/lucas-ramon-1978b653/)
+ [![Linkedin: ivanilson](https://img.shields.io/badge/-ivanilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanilson-ferreira-026292201/)](https://www.linkedin.com/in/ivanilson-ferreira-026292201/)
+ [![Linkedin: josé](https://img.shields.io/badge/-josé-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-victor-martins-figueiredo-21a70217b/)](https://www.linkedin.com/in/jos%C3%A9-victor-martins-figueiredo-21a70217b/)
+ [![Linkedin: lucas](https://img.shields.io/badge/-lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ramon-1978b653/)](https://www.linkedin.com/in/lucas-ramon-1978b653/)
  [![Linkedin: sbstleal](https://img.shields.io/badge/-sbstleal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sbstleal/)](https://www.linkedin.com/in/sbstleal/)
  [![Linkedin: sbstleal](https://img.shields.io/badge/-sbstleal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sbstleal/)](https://www.linkedin.com/in/sbstleal/)
