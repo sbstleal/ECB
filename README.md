@@ -18,26 +18,28 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
- # Comandos iniciais:
+**Comandos iniciais:**
 ``` bash
-  mkdir aec-webapi-entity-framework
-  cd aec-webapi-entity-framework
+  mkdir nome-projeto
+  cd nome-projeto
   dotnet new webapi
 ```
 
-# Comandos git:
+**Comandos GIT e GITHUB:**
 ``` bash
   git init
   git add .
   git commit -m "Iniciando projeto"
-  code .gitignore # gerei o conteúdo para ignorar como (Windows, Linux, Mac, DotnetCore, VisualStudioCore) no link: https://www.toptal.com/developers/gitignore
-  Criei o repositório e rodei os comandos
-  git remote add origin git@github.com:didox/aec-webapi-entity-framework.git
+  code .gitignore # gerei o conteúdo para ignorar como (Windows, Linux, Mac, DotnetCore, VisualStudioCore) no link: <a href="https://www.toptal.com/developers/gitignore">GITIGONRE.IO</a>.
+  
+  Após criado o repositório, suba para o GITHUB (utilizar o primeiro comando que o GITHUB fornece):
+  
+  git remote add origin git@github.com:youruser/repository.git
   git branch -M main
   git push -u origin main
 ```
 
-# Componentes instalados:
+**Pacotes utilizados:**
 ``` bash
   dotnet add package Microsoft.EntityFrameworkCore --version 5.0.9
   dotnet add package Microsoft.EntityFrameworkCore.Tools --version 5.0.9
@@ -45,22 +47,22 @@
   dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 5.0.2
 ```
 
-# Comandos para migração:
+**Comandos utilizados para criar a migração:**
 ``` bash
 dotnet tool install --global dotnet-ef
-dotnet ef migrations add CarroAdd
+dotnet ef migrations add ExampleAdd
 dotnet ef database update
 ```
 
-# Instalação do code generator
+**Comando para instalar a ferramenta code generator:**
 ``` bash
 dotnet tool install -g dotnet-aspnet-codegenerator
 ```
 
-# Gerando o scaffold de Carros
+**Comandos para criar os scaffold's necessários:**
 ``` bash
-dotnet aspnet-codegenerator controller -name CarrosController -m Carro -dc DbContexto --relativeFolderPath Controllers
+dotnet aspnet-codegenerator controller -name CandidatoController -async -api -m Candidato -dc DbContexto -outDir Controllers
 
-dotnet aspnet-codegenerator controller -name MarcasController -m Marca -dc DbContexto --relativeFolderPath Controllers
+dotnet aspnet-codegenerator controller -name ProfissaoController -async -api -m Profissao -dc DbContexto -outDir Controllers
 
 ``` 
