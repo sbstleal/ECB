@@ -1,7 +1,7 @@
 <h3> ☕ &nbsp;EMPTY COFFEE CUPS <h3/>
   
 - 📚 &nbsp; Desafio final do 1º **AeC Digital Academy** desenvolvido pela Gama Academy: <a href="https://github.com/educacao-gama/desafios-gama/tree/main/banco%20de%20curriculos/">repositório github</a>.
-- 🛠 &nbsp; Desenvolvido por **Caio, Ivanilson, José Victor, Lucas Ramon, Lucineide e Sebastião Leal**, github da equipe seguindo todos integrantes: <a href="https://github.com/emptcoffeecups/">emptcoffeecups</a>
+- 🛠 &nbsp; Desenvolvido por **Caio Cyrino, Ivanilson Ferreira, José Victor, Lucas Ramon, Lucineide Farias e Sebastião Leal**, github da equipe seguindo todos integrantes: <a href="https://github.com/emptcoffeecups/">emptcoffeecups</a>
   
  --
   
@@ -82,4 +82,4 @@ dotnet aspnet-codegenerator controller -name ProfissaoController -async -api -m 
  [![Linkedin: josé](https://img.shields.io/badge/-josé-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-victor-martins-figueiredo-21a70217b/)](https://www.linkedin.com/in/jos%C3%A9-victor-martins-figueiredo-21a70217b/)
  [![Linkedin: lucas](https://img.shields.io/badge/-lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ramon-1978b653/)](https://www.linkedin.com/in/lucas-ramon-1978b653/)
  [![Linkedin: caio](https://img.shields.io/badge/-caio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cyrino-5a285b83/)](https://www.linkedin.com/in/caio-cyrino-5a285b83/)
- [![Linkedin: sbstleal](https://img.shields.io/badge/-sbstleal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sbstleal/)](https://www.linkedin.com/in/sbstleal/)
+   [![Linkedin: sbstleal](https://img.shields.io/badge/-Lucineide-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucineide-farias-4211271a5/)](https://www.linkedin.com/in/lucineide-farias-4211271a5/)
