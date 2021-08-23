@@ -3,7 +3,7 @@
 - 📚 &nbsp; Desafio final do 1º **AeC Digital Academy** desenvolvido pela Gama Academy: <a href="https://github.com/educacao-gama/desafios-gama/tree/main/banco%20de%20curriculos/">repositório github</a>.
 - 🛠 &nbsp; Desenvolvido por **Caio Cyrino, Ivanilson Ferreira, José Victor, Lucas Ramon, Lucineide Farias e Sebastião Leal**, github da equipe seguindo todos integrantes: <a href="https://github.com/emptcoffeecups/">emptcoffeecups</a>
   
- --
+ ---
   
  *Ferramentas de Desenvolvimento Utilizadas*
 
@@ -24,7 +24,7 @@
   
   ![Buma](https://img.shields.io/badge/-Buma-333333?style=flat&logo=Buma)
   
- --
+ ---
   
 *Comandos iniciais:*
 ``` bash
@@ -75,7 +75,7 @@ dotnet aspnet-codegenerator controller -name ProfissaoController -async -api -m 
 
 ``` 
   
- -- 
+ ---
   
   <h2> 💼 &nbsp;Caso deseje saber mais sobre os integrantes, abaixo encontra-se nosso Linkedin: <h2/>
   
