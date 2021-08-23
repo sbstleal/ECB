@@ -20,7 +20,9 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
-
+*Frameworks front-end*
+  
+  ![Buma](https://img.shields.io/badge/-Buma-333333?style=flat&logo=Buma)
   
  --
   
