@@ -22,7 +22,7 @@
   
 *Frameworks front-end*
   
-  ![Buma](https://img.shields.io/badge/-Buma-333333?style=flat&logo=Buma)
+  ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=Bulma)
   
  ---
   
